@@ -1,0 +1,15 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="168c8ac2-d10a-46d9-a44e-44126047a26f" name="Root" url="http://localhost:12345/">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="c28d240f-4bbf-4a4b-9bc3-e34d0d7e3cb7" name="aaa" url="http://localhost">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="63cdcc24-e3bf-4251-8626-a54e91950feb" name="a" url="http://localhost">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</application>
