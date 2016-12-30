@@ -14,6 +14,7 @@
   <option name="PACKAGES_TO_USE_IMPORT_ON_DEMAND">
     <value>
       <package name="java.awt" withSubpackages="false" static="false" />
+      <package name="import org.hamcrest" withSubpackages="true" static="true" />
       <package name="import org.junit.Assert" withSubpackages="true" static="true" />
       <package name="javax.swing" withSubpackages="false" static="false" />
     </value>
