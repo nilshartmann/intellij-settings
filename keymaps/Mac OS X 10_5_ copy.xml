@@ -14,4 +14,10 @@
     <keyboard-shortcut first-keystroke="shift meta minus" />
     <keyboard-shortcut first-keystroke="meta minus" />
   </action>
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="meta y" />
+  </action>
+  <action id="QuickImplementations">
+    <keyboard-shortcut first-keystroke="alt space" />
+  </action>
 </keymap>
