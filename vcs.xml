@@ -26,9 +26,13 @@
           <option name="url" value="https://github.com/DJCordhose/react-intro-live-coding.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/nilshartmann/coolstore-microservice" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/develop/javascript" />
+    <option name="cloneParentDir" value="$USER_HOME$/develop/" />
   </component>
   <component name="VcsApplicationSettings">
     <option name="PATCH_STORAGE_LOCATION" value="$USER_HOME$/Downloads" />
