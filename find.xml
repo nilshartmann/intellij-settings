@@ -14,7 +14,25 @@
       <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>package.json</mask>
+      <mask>*C</mask>
+      <mask>*Co</mask>
+      <mask>*Contro</mask>
+      <mask>*Control</mask>
+      <mask>*Controller.</mask>
+      <mask>*Controller.j</mask>
+      <mask>*Controller.js</mask>
+      <mask>*Controller.js,</mask>
+      <mask>*Controller.js,*</mask>
+      <mask>*Controller.js,*D</mask>
+      <mask>*Controller.js,*De</mask>
+      <mask>*Controller.js,*Det</mask>
+      <mask>*Controller.js,*Detail</mask>
+      <mask>*Controller.js,*Detail.</mask>
+      <mask>*Controller.js,*Detail.j</mask>
+      <mask>*Controller.js,*Detail.js</mask>
       <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.j</mask>
       <mask>*.js</mask>
     </recentFileMasks>
   </component>
