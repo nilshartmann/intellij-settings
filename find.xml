@@ -3,16 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="_package.json" />
+    <option name="FILE_MASK" value="styles.css" />
     <recentFileMasks>
-      <mask>package.json</mask>
-      <mask>*C</mask>
-      <mask>*Co</mask>
-      <mask>*Contro</mask>
-      <mask>*Control</mask>
-      <mask>*Controller.</mask>
-      <mask>*Controller.j</mask>
-      <mask>*Controller.js</mask>
       <mask>*Controller.js,</mask>
       <mask>*Controller.js,*</mask>
       <mask>*Controller.js,*D</mask>
@@ -22,7 +14,6 @@
       <mask>*Controller.js,*Detail.</mask>
       <mask>*Controller.js,*Detail.j</mask>
       <mask>*Controller.js,*Detail.js</mask>
-      <mask>*</mask>
       <mask>*.</mask>
       <mask>*.j</mask>
       <mask>*.js</mask>
@@ -35,6 +26,15 @@
       <mask>_package.js</mask>
       <mask>_package.jso</mask>
       <mask>_package.json</mask>
+      <mask>*</mask>
+      <mask>*.c</mask>
+      <mask>*.cs</mask>
+      <mask>*.css</mask>
+      <mask>.css</mask>
+      <mask>s.css</mask>
+      <mask>st.css</mask>
+      <mask>style.css</mask>
+      <mask>styles.css</mask>
     </recentFileMasks>
   </component>
 </application>
