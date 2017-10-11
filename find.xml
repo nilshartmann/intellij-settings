@@ -3,11 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.js" />
+    <option name="FILE_MASK" value="*.html" />
     <recentFileMasks>
-      <mask>_</mask>
-      <mask>_p</mask>
-      <mask>_pack</mask>
       <mask>_packa</mask>
       <mask>_package</mask>
       <mask>_package.</mask>
@@ -33,8 +30,11 @@
       <mask>package.jso</mask>
       <mask>package.json</mask>
       <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.ht</mask>
+      <mask>*.html</mask>
     </recentFileMasks>
   </component>
 </application>
