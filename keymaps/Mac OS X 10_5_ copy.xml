@@ -1,4 +1,5 @@
 <keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id="ActivateStructureToolWindow" />
   <action id="CollapseAll">
     <keyboard-shortcut first-keystroke="meta subtract" />
   </action>
@@ -13,6 +14,7 @@
     <keyboard-shortcut first-keystroke="meta divide" />
     <keyboard-shortcut first-keystroke="shift meta minus" />
     <keyboard-shortcut first-keystroke="meta minus" />
+    <keyboard-shortcut first-keystroke="meta 7" />
   </action>
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="meta d" />
