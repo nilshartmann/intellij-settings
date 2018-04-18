@@ -2,16 +2,13 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
-      <removed_mapping ext="es6" type="ECMAScript 6" />
-      <mapping ext="es6" type="JavaScript" />
       <mapping ext="ai" type="Native" />
+      <mapping pattern="aaa" type="PLAIN_TEXT" />
+      <mapping pattern=".flowconfig" type="PLAIN_TEXT" />
+      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern="license" type="PLAIN_TEXT" />
       <mapping pattern="README-e2e" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
-      <mapping pattern=".flowconfig" type="PLAIN_TEXT" />
-      <mapping pattern="aaa" type="PLAIN_TEXT" />
-      <mapping ext="opts" type="PLAIN_TEXT" />
       <mapping ext="cql" type="PLAIN_TEXT" />
       <mapping ext="dust" type="PLAIN_TEXT" />
       <mapping ext="2" type="PLAIN_TEXT" />

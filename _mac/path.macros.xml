@@ -2,7 +2,7 @@
   <component name="PathMacrosImpl">
     <macro name="PATH" value="/usr/local/bin" />
     <macro name="MAVEN_REPOSITORY" value="/Users/nils/.m2/repository" />
-    <macro name="KOTLIN_BUNDLED" value="/Applications/IntelliJ IDEA.app/Contents/plugins/Kotlin/kotlinc" />
+    <macro name="KOTLIN_BUNDLED" value="/private/var/folders/nt/s_4_4q7n31x4zdg393f25zb40000gn/T/AppTranslocation/49457B4D-5205-4229-A02A-47160832A9AA/d/IntelliJ IDEA.app/Contents/plugins/Kotlin/kotlinc" />
     <ignoredMacro name="MESSAGE" />
     <ignoredMacro name="FILE_PATH" />
     <ignoredMacro name="LINE" />
