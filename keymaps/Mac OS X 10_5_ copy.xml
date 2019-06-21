@@ -16,14 +16,10 @@
     <keyboard-shortcut first-keystroke="meta minus" />
     <keyboard-shortcut first-keystroke="meta 7" />
   </action>
-  <action id="CompileDirty">
-    <keyboard-shortcut first-keystroke="meta s" />
-  </action>
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="meta d" />
   </action>
   <action id="QuickImplementations">
     <keyboard-shortcut first-keystroke="alt space" />
   </action>
-  <action id="SaveAll" />
 </keymap>
