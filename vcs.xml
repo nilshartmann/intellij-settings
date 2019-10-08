@@ -30,9 +30,13 @@
           <option name="url" value="https://github.com/nilshartmann/coolstore-microservice" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@qc-git-1:pvs/clearinghouse.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/develop/" />
+    <option name="cloneParentDir" value="$USER_HOME$/develop/quadcore" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
